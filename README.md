@@ -1,11 +1,12 @@
 # About me 
 
-- 🔭 I’m currently in Teaching Collaboration at the University of Trás-os-Montes e Alto Douro - School of Science and Technology ([UTAD](https://www.utad.pt/en/)).
-- 🔭 I’m currently President of the Scientific and Technical Council of Lamego Higher School of Technology and Management ([ESTGL](https://www.estgl.ipv.pt/)).
+- I'm an Adjunct Professor of Computer Engineering at the Polytechnic University of Viseu ([IPV](https://ipv.pt/en/)) - Lamego School of Technology and Management.
+- I’m currently in Teaching Collaboration at the University of Trás-os-Montes e Alto Douro ([UTAD](https://www.utad.pt/en/)) - School of Science and Technology.
+- I’m currently President of the Scientific and Technical Council of Lamego School of Technology and Management ([ESTGL](https://www.estgl.ipv.pt/)).
 <!--
 👋
 **costa-c/costa-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🔭 
 Here are some ideas to get you started:
 - 🌱 I’m currently developing my PhD in Electrical and Computer Engineering at the University of Trás-os-Montes e Alto Douro ([UTAD](https://www.utad.pt/en/)), in the areas of smart harvesting and smart irrigation based on Machine Learning.
 - 👯 I’m looking to collaborate on ...
